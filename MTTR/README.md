@@ -14,4 +14,5 @@
 <ul>
   <li>One column containing strings and named <b>'Machine names'</b></li>
   <li>Another column containing the MTBF value in a 'hh:mm:ss' string format and named 'MTTR'</li>
+  <li>A third column containing the number of stops as an integer and named 'Number of stops'</li>
 </ul>
